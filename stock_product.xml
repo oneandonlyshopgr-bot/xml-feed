@@ -52,5 +52,21 @@
 Κατάλληλο για αυτοκίνητα, λεωφορεία και φορτηγά.]]></Description>
       <Quantity>2</Quantity>
     </product>
+    <product>
+      <Unique_ID>RL15268</Unique_ID>
+      <Name>ΤΣΑΝΤΑΚΙ ΦΑΡΜΑΚΕΙΟ ΑΥΤΟΚΙΝΗΤΟΥ ΜΕ ΕΞΟΠΛΙΣΜΟ ΠΡΩΤΩΝ ΒΟΗΘΕΙΩΝ KN-58326 - RL15268</Name>
+      <Product_Link>https://www.rolinger.gr/myshop/el/health/15268--kn-58326-1401000058326.html</Product_Link>
+      <Image_Link>https://www.rolinger.gr/myshop/26002-large_default/-kn-58326.jpg</Image_Link>
+      <Category_Name>Υγεία</Category_Name>
+      <Price>16.5</Price>
+      <VAT_Rate>24</VAT_Rate>
+      <Availability>Άμεσα Διαθέσιμο</Availability>
+      <Manufacturer>Rolinger Oems</Manufacturer>
+      <MPN_ISBN>KN-58326</MPN_ISBN>
+      <EAN_Barcode>1401000058326</EAN_Barcode>
+      <InStock>Y</InStock>
+      <Description>ΤΣΑΝΤΑΚΙ ΦΑΡΜΑΚΕΙΟ ΑΥΤΟΚΙΝΗΤΟΥ ΜΕ ΕΞΟΠΛΙΣΜΟ ΠΡΩΤΩΝ ΒΟΗΘΕΙΩΝ KN-58326</Description>
+      <Quantity>10</Quantity>
+    </product>
   </products>
 </storedata>
