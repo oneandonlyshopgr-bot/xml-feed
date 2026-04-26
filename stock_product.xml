@@ -68,5 +68,21 @@
       <Description>ΤΣΑΝΤΑΚΙ ΦΑΡΜΑΚΕΙΟ ΑΥΤΟΚΙΝΗΤΟΥ ΜΕ ΕΞΟΠΛΙΣΜΟ ΠΡΩΤΩΝ ΒΟΗΘΕΙΩΝ KN-58326</Description>
       <Quantity>10</Quantity>
     </product>
+    <product>
+      <Unique_ID>TF30005</Unique_ID>
+      <Name>Αντάπτορας Lighting σε Headphone Jack 3.5mm – Lighting to Headphone Jack Adapter - TF30005</Name>
+      <Product_Link>https://www.topflix.gr/product/antaptoras-lighting-se-headphone-jack-3-5mm-lighting-to-headphone-jack-adapter/</Product_Link>
+      <Image_Link>https://www.topflix.gr/wp-content/uploads/2023/08/30005.jpg</Image_Link>
+      <Category_Name>Ενσύρματα ακουστικά</Category_Name>
+      <Price>5.1</Price>
+      <VAT_Rate>24</VAT_Rate>
+      <Availability>Άμεσα Διαθέσιμο</Availability>
+      <Manufacturer>OEM</Manufacturer>
+      <MPN_ISBN></MPN_ISBN>
+      <EAN_Barcode>6146785000430</EAN_Barcode>
+      <InStock>Y</InStock>
+      <Description><![CDATA[Ο αντάπτορας είναι κατασκευασμένος από υψηλής ποιότητας υλικά και είναι ιδανικός για τη σύνδεση των smartphones τελευταίας γενιάς.]]></Description>
+      <Quantity>5</Quantity>
+    </product>
   </products>
 </storedata>
