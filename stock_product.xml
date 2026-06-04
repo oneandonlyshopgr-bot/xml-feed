@@ -61,7 +61,7 @@
       <Product_Link>https://www.topflix.gr/product/syskevi-parafinis-gia-cheria-kai-podia-paraffin-wax-heater-for-hands-and-feet/</Product_Link>
       <Image_Link>https://www.topflix.gr/wp-content/uploads/2026/01/26364-81.jpg</Image_Link>
       <Category_Name>Συσκευές Κομμωτηρίου - Κέντρου Αισθητικής</Category_Name>
-      <Price>34.5</Price>
+      <Price>37</Price>
       <VAT_Rate>24</VAT_Rate>
       <Availability>Άμεσα Διαθέσιμο</Availability>
       <Manufacturer>OEM</Manufacturer>
@@ -126,6 +126,40 @@
 
 Διαστάσεις: 21,5 Χ12,5 Χ 6cm</Description>
       <Quantity>50</Quantity>
+    </product>
+    <product>
+      <Unique_ID>RL15690</Unique_ID>
+      <Name>ΦΑΡΜΑΚΕΙΟ ΠΡΩΤΩΝ ΒΟΗΘΕΙΩΝ ΜΕ ΠΙΣΤΟΠΟΙΗΣΗ DIN 13164:2022 PETEX ME 42 ΕΙΔΗ TY-00500</Name>
+      <Product_Link>https://www.rolinger.gr/myshop/el/car_safety/15690--din-131642022-petex-me-42-ty-00500-4028985005007.html</Product_Link>
+      <Image_Link>https://www.rolinger.gr/myshop/26918-large_default/-din-131642022-petex-me-42-ty-00500.jpg</Image_Link>
+      <Category_Name>Φαρμακεία Αυτοκινήτου</Category_Name>
+      <Price>11.80</Price>
+      <VAT_Rate>13</VAT_Rate>
+      <Availability>Άμεσα Διαθέσιμο</Availability>
+      <Manufacturer>PETEX</Manufacturer>
+      <MPN_ISBN></MPN_ISBN>
+      <EAN_Barcode>4028985005007</EAN_Barcode>
+      <InStock>Y</InStock>
+      <Description>Σκληρό πλαστικό βαλιτσάκι. 
+
+Διαστάσεις : 25,2 x 16,5 x 7,7 cm.
+
+Περιεχόμενα
+3 αποστειρωμένες γάζες με επίθεμα 8x10cm
+8 αυτοκόλλητα έμπλαστρα για πληγές 
+2 ρυθμιζόμενους (PBT) επιδέσμους 4m x 8cm 
+3 ρυθμιζόμενους (PBT) επιδέσμους 4m x 6cm 
+6 αποστειρωμένες γάζες 
+2 αποστειρωμένα επιθέματα 40cm x 60cm 
+1 αποστειρωμένο επίθεμα 60cm x 80cm 
+1 αποστειρωμένη γάζα με επίθεμα 10cm x 12cm 
+1 ψαλίδι από ατσάλι 14,5 cm 
+1 αυτοκόλλητο λευκοπλάστ
+2 τριγωνικούς επιδέσμους 96 x 96 x 136cm 
+4 γάντια μιας χρήσης
+1 κουβέρτα επιβίωσης αλουμινίου 160cm x 210cm
+1 φυλλάδιο πληροφοριών και οδηγίες για μέτρα αντιμετώπισης.</Description>
+      <Quantity>30</Quantity>
     </product>
   </products>
 </storedata>
