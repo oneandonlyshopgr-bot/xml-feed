@@ -129,53 +129,5 @@ builder gels, uv gels και ημιμόνιμα βερνίκια
 Αποσπώμενη βάση</Description>
       <Quantity>3</Quantity>
     </product>
-    <product>
-      <Unique_ID>TF222574</Unique_ID>
-      <Name>Meijiahui Παιδικό Tablet 7'' K1 - Kids Tablet - TF222574</Name>
-      <Product_Link>https://www.topflix.gr/product/meijiahui-paidiko-tablet-7-k1-kids-tablet/</Product_Link>
-      <Image_Link>https://a.scdn.gr/images/sku_main_images/066200/66200038/xlarge_20260327105631_meijiahui_k1_7_tablet_8gb_256gb_roz.jpeg</Image_Link>
-      <Category_Name>Tablets</Category_Name>
-      <Price>64.23</Price>
-      <VAT_Rate>24</VAT_Rate>
-      <Availability>Άμεσα Διαθέσιμο</Availability>
-      <Manufacturer>Meijiahui</Manufacturer>
-      <MPN_ISBN>K1</MPN_ISBN>
-      <EAN_Barcode>5626806316500</EAN_Barcode>
-      <InStock>Y</InStock>
-      <Description>Το παιδικό tablet MEIJIAHUI K1 είναι σχεδιασμένο ειδικά για παιδιά, προσφέροντας διασκέδαση, εκπαίδευση και ασφάλεια σε μια ανθεκτική συσκευή με προστατευτική θήκη. Διαθέτει οθόνη 7 ιντσών IPS με καθαρή εικόνα και ζωντανά χρώματα, ιδανική για παιχνίδια, βίντεο και εκπαιδευτικές εφαρμογές.
-
-Η συσκευή λειτουργεί με λειτουργικό σύστημα Android 14 και τετραπύρηνο επεξεργαστή για ομαλή λειτουργία εφαρμογών και παιχνιδιών. Με μνήμη 8GB RAM και αποθηκευτικό χώρο 256GB ROM προσφέρει άφθονο χώρο για εφαρμογές, φωτογραφίες και βίντεο.
-
-Το tablet διαθέτει μπροστινή και πίσω κάμερα 5MP για φωτογραφίες και βιντεοκλήσεις, ενώ η μπαταρία 5000mAh προσφέρει μεγάλη διάρκεια χρήσης. Υποστηρίζει σύνδεση WiFi και Bluetooth για εύκολη πρόσβαση στο διαδίκτυο και σύνδεση με άλλες συσκευές.
-
-Η ανθεκτική παιδική θήκη σιλικόνης προστατεύει τη συσκευή από χτυπήματα και πτώσεις, ενώ ο εργονομικός σχεδιασμός επιτρέπει εύκολο κράτημα από μικρά χέρια. Διατίθεται σε δύο χρώματα, μπλε και ροζ.
-
-Ιδανικό για παιχνίδι, εκπαίδευση, παρακολούθηση βίντεο και χρήση εκπαιδευτικών εφαρμογών, το MEIJIAHUI K1 αποτελεί μια εξαιρετική επιλογή για παιδιά.
-
-Χαρακτηριστικά:
-
-Οθόνη: 7″ IPS
-
-Επεξεργαστής: Quad Core
-
-Μνήμη: 8GB RAM
-
-Αποθήκευση: 256GB ROM
-
-Λειτουργικό Σύστημα: Android 14
-
-Κάμερα: 5MP μπροστινή και 5MP πίσω
-
-Συνδεσιμότητα: WiFi, Bluetooth
-
-Θύρα φόρτισης: Type-C
-
-Μπαταρία: 5000mAh
-
-Χρώματα: Μπλε ή Ροζ
-
-Κατάλληλο για παιδιά με ανθεκτική προστατευτική θήκη</Description>
-      <Quantity>1</Quantity>
-    </product>
-  </products>
+    </products>
 </storedata>
