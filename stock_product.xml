@@ -129,21 +129,5 @@ builder gels, uv gels και ημιμόνιμα βερνίκια
 Αποσπώμενη βάση</Description>
       <Quantity>3</Quantity>
     </product>
-     <product>
-      <Unique_ID>RL7547</Unique_ID>
-      <Name>CAMERA ULTRA HD ANDOWL Q-SX988 - RL7547</Name>
-      <Product_Link>https://www.rolinger.gr/myshop/12950-large_default/camera-ultra-hd-andowl-q-sx988.jpg</Product_Link>
-      <Image_Link>https://www.rolinger.gr/myshop/12950-large_default/camera-ultra-hd-andowl-q-sx988.jpg</Image_Link>
-      <Category_Name>Web Cameras</Category_Name>
-      <Price>34.8</Price>
-      <VAT_Rate>24</VAT_Rate>
-      <Availability>Άμεσα Διαθέσιμο</Availability>
-      <Manufacturer>Andowl</Manufacturer>
-      <MPN_ISBN>Q-SX988</MPN_ISBN>
-      <EAN_Barcode>7890220303196</EAN_Barcode>
-      <InStock>Y</InStock>
-      <Description>CAMERA ULTRA HD ANDOWL Q-SX988</Description>
-      <Quantity>1</Quantity>
-    </product>
     </products>
 </storedata>
