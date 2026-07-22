@@ -59,5 +59,37 @@ builder gels, uv gels και ημιμόνιμα βερνίκια
 Αποσπώμενη βάση</Description>
       <Quantity>3</Quantity>
     </product>
-    </products>
+    <product>
+      <Unique_ID>TR283625</Unique_ID>
+      <Name>Φαρμακείο αυτοκινήτου KTEO - DIN 13164:2022 - Petex - 005021 - TR283625</Name>
+      <Product_Link>https://www.skroutz.gr/s/10559060/Petex-Farmakeio-Proton-Voitheion-Aytokinitou-Tsantaki-me-Exoplismo-43930004.html</Product_Link>
+      <Image_Link>https://b.scdn.gr/images/sku_main_images/010559/10559060/xlarge_20260525102249_petex_farmakeio_proton_voitheion_aytokinitou_tsantaki_me_exoplismo_43930004.jpeg</Image_Link>
+      <Category_Name>Φαρμακεία Αυτοκινήτου</Category_Name>
+      <Price>9.9</Price>
+      <VAT_Rate>13</VAT_Rate>
+      <Availability>Άμεσα Διαθέσιμο</Availability>
+      <Manufacturer>Petex</Manufacturer>
+      <MPN_ISBN></MPN_ISBN>
+      <EAN_Barcode>4028985005021</EAN_Barcode>
+      <InStock>Y</InStock>
+      <Description>Υφασμάτινο τσαντάκι φαρμακείο αυτοκινήτου, που περιέχει:
+
+3 αποστειρωμένες γάζες με επίθεμα 8cm x 10cm
+8 αυτοκόλλητα έμπλαστρα για πληγές
+2 ρυθμιζόμενους επιδέσμους 4m x 8cm
+3 ρυθμιζόμενους επιδέσμους 4m x 6cm
+6 αποστειρωμένες γάζες
+2 αποστειρωμένα επιθέματα 40cm x 60cm
+1 αποστειρωμένο επίθεμα 60cm x 80cm
+1 αποστειρωμένη γάζα με επίθεμα 10cm x 12cm
+1 ψαλίδι από ατσάλι 14.5cm
+1 αυτοκόλλητο λευκοπλάστ,
+2 τριγωνικούς επιδέσμους 96 x 96 x 136cm
+4 γάντια μιας χρήσης
+1 Ισοθερμική κουβέρτα διάσωσης 160 x 210cm αλουμινίου
+1 φυλλάδιο πληροφοριών και οδηγίες για μέτρα αντιμετώπισης.
+2 Ιατρικές μάσκες μιας χρήσης</Description>
+      <Quantity>20</Quantity>
+    </product>
+  </products>
 </storedata>
