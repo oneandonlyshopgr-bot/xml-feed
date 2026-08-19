@@ -201,7 +201,8 @@ builder gels, uv gels και ημιμόνιμα βερνίκια
 Ιδανικό για χρήση σε κλειστό ή ανοιχτό χώρο.</Description>
       <Quantity>2</Quantity>
     </product>
-    <Unique_ID>ST1001</Unique_ID>
+    <product>
+      <Unique_ID>ST1000</Unique_ID>
       <Name>Frozen Παιδική Μεταλλική Κασετίνα Γεωμετρίας - Σετ Γραφικής Ύλης με 2 Μολύβια, Γόμα, Ξύστρα & Χάρακα -ST1001</Name>
       <Product_Link>https://karoutonlinelb.com/cdn/shop/products/K-39-7.jpg</Product_Link>
       <Image_Link>https://karoutonlinelb.com/cdn/shop/products/K-39-7.jpg</Image_Link>
